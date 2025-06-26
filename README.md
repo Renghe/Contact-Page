@@ -15,7 +15,7 @@ This is a clean and responsive **Contact Page** built with HTML and CSS.
 - JavaScript (for Dark Mode)
 
 ### 📷 Preview:
-![Contact Page Screenshot](![image](https://github.com/user-attachments/assets/643885ac-b52a-433d-bf67-f924b1c38a24)
+
 ![image](https://github.com/user-attachments/assets/643885ac-b52a-433d-bf67-f924b1c38a24)
 
 ---
