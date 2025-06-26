@@ -29,4 +29,4 @@ This is a clean and responsive **Contact Page** built with HTML and CSS.
 
 ### 📌 Author
 **Tanvish Renghe**  
-[LinkedIn](https://github.com/Renghe)  
+[LinkedIn](https://www.linkedin.com/in/tanvish-renghe/)  
