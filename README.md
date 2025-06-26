@@ -16,7 +16,8 @@ This is a clean and responsive **Contact Page** built with HTML and CSS.
 
 ### 📷 Preview:
 
-![image](https://github.com/user-attachments/assets/643885ac-b52a-433d-bf67-f924b1c38a24)
+![image](https://github.com/user-attachments/assets/91b15d66-b856-46dd-8552-c628861052e6)
+
 
 ---
 
